@@ -1,0 +1,12 @@
+.circle {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background: rgb(0, 0, 255);
+  margin: 0 auto;
+}
+.circle:hover {
+  width: 200px;
+  margin-left: 20px;
+  transition-duration: 10s;
+}
