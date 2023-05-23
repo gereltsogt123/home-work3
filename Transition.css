@@ -1,0 +1,20 @@
+.Transition {
+  width: 100px;
+  height: 100px;
+  background: rgb(0, 0, 255);
+  transition: width 2s;
+}
+
+.Transition:hover {
+  width: 1350px;
+}
+.Transition1 {
+  margin-top: 200px;
+  width: 100px;
+  height: 100px;
+  background: rgb(255, 0, 0);
+  transition: width 2s;
+}
+.Transition1:hover {
+  width: 1350px;
+}
